@@ -74,9 +74,15 @@ The model will be successful if achieves a low RMSE and ROI is sufficient.
 
 **MODEL RESULTS**
 
-**Conclusion**
+**Conclusion and Recommendations**
 
-**Recommendations**
+1. Invest in properties in Zipcodes with high Return on Investment (ROI).2. 
+2. Consider the availability of amenities like parks, shopping centers, hospitals, and public transport.
+3. Understand the demographics of the population within the preffered  Zipcod
+4. Consider any new residential or commercial developments in the area that could impact supply and demand.
+5. Review the average household income within the Zipcode. Higher income levels can support higher property values and rents.
+
+
 
 
 
