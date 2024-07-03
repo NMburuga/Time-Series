@@ -1,3 +1,4 @@
+![image](https://github.com/NMburuga/Time-Series/assets/157301672/baba93b1-9d07-4c99-89af-439725af4d03)
 # TIME SERIES MODEL ON ZILLOW HOUSING DATA
 ## Project Overview
 
